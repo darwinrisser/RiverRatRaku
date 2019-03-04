@@ -24,7 +24,7 @@ class App extends Component {
               Raku involves the use of various waxes and glazes. Horse hair is often used to create fine lines and textures that give each piece a distinct look. You can see these styles in Jeff’s work.
             </p>
             <p>
-              Please take a look at our the gallery and if you are interested in purchasing any of Jeff's pieces, use the contact form below to get in touch with him.
+              Please take a look at our the gallery and if you are interested in purchasing any of Jeff's pieces, you can <a href = "mailto: risser.darwin@gmail.com">contact</a> Jeff directly.
             </p>
         </div>
         </div>
@@ -32,9 +32,10 @@ class App extends Component {
           <h1>Gallery</h1>
           <ImageGridList/>
         </div>
-        <div id="contact">
-          alskdjfl;aksdjfl;akjsdf
-        </div>
+        <footer>
+          © Darwin Risser 2019
+          <br></br>
+        </footer>
       </div>
     );
   }

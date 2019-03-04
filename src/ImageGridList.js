@@ -15,7 +15,7 @@ const styles = theme => ({
   },
   gridList: {
     width: 900,
-    height: 900,
+    height: 700,
   },
 });
 
