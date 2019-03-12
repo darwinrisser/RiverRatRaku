@@ -32,7 +32,7 @@ class App extends Component {
           <h1>Gallery</h1>
           <ImageGridList/>
         </div>
-        <footer>
+        <footer id="footer">
           © Darwin Risser 2019
           <br></br>
         </footer>

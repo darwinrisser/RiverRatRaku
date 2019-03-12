@@ -4,6 +4,7 @@ import { withStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
+import './AppBar.css';
 
 const styles = {
   root: {
@@ -23,7 +24,6 @@ function SimpleAppBar(props) {
                 <li><a href='#home'>Home</a></li>
                 <li><a href='#about'>About</a></li>
                 <li><a href='#gallery'>Gallery</a></li>
-                <li><a href = "mailto: risser.darwin@gmail.com">Contact</a></li>
             </ul>
           </Typography>
         </Toolbar>
