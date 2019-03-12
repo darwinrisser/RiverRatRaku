@@ -14,8 +14,8 @@ const styles = theme => ({
     backgroundColor: theme.palette.background.paper,
   },
   gridList: {
-    maxWidth: '78%',
-    maxHeight: '60%'
+    maxWidth: '900px',
+    maxHeight: '50%'
   },
 });
 

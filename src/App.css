@@ -80,6 +80,7 @@ li a:hover{
 #gallery{
   padding-top: 4em;
   padding-bottom: 4em;
+  margin: 0 2em;
 }
 
 #gallery h1{
